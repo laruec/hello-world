@@ -1,2 +1,4 @@
 # hello-world
-Junk drawer as I learn
+Hello,
+I'm Chris.
+Have a nice day!
